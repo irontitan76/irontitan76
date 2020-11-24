@@ -14,8 +14,4 @@
   <a href='https://instagram.com/rshep182'>
     <img alt='LinkedIn' src='./images/instagram-brands.svg' height='24px' width='48px' />
   </a>
-
-  <a href='https://twitter.com/rshep182'>
-    <img alt='LinkedIn' src='./images/twitter-brands.svg' height='24px' width='48px' />
-  </a>
 </p>
